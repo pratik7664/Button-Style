@@ -1,0 +1,25 @@
+.btn-search {
+    color: #71c1c1;
+    height: 25px;
+    width: 120px;
+    border: 1px solid;
+    border-color:#00d1b2 ;
+    border-radius: 16px;
+}
+.btn-circle {
+    height:50px;
+    width: 50px;
+    border-radius: 50%;
+    border:none;
+    background-color: #00d1b2;
+    font-size: 20px;
+    font-weight: 900;
+    color: white;
+}
+.btn-account {
+    background-color: #2b78e4;
+    color: white;
+    height: 35px;
+    width: 150px;
+    border: transparent;
+}
